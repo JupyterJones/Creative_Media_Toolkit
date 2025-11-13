@@ -1,0 +1,5 @@
+{
+  "name": "Creative Media AI Toolkit",
+  "description": "A powerful, client-side toolkit for creative image and video processing. Blend images with masks, generate video sequences, and manage your media assets in a fast, single-page application.",
+  "requestFramePermissions": []
+}
